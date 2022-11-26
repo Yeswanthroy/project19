@@ -7,7 +7,7 @@ This is a web based application developed for health related based website in in
 
 
 **Project Link**-https://yellow-sea-0e606ff00.2.azurestaticapps.net/
-**Project Demo Link**-
+**Project Demo Link**-https://youtu.be/Y_h1K0lULJE
 
 **Azure technologies used for Project**
 -Static web apps
